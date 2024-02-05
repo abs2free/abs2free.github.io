@@ -1,11 +1,10 @@
 ---
 title: this is a blog model
-author: 
+author: abs2free 
 date: 2024-02-05 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
-img_path: '/assets'
 ---
 
 ## Prerequisites
